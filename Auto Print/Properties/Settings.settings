@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Auto_Print.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="apNames" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Port,Ach</Value>
+    </Setting>
+    <Setting Name="apDescription" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Child Portrait,Child Achievement</Value>
+    </Setting>
+    <Setting Name="apPreferPrinter" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="apHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">access802899325.webspace-data.io</Value>
+    </Setting>
+    <Setting Name="apUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u98941559</Value>
+    </Setting>
+    <Setting Name="apPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="apPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jadzia1984!</Value>
+    </Setting>
+    <Setting Name="apSaveLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="apRFChild" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/uzmQIAHBSH6kusMp9tNpbSvEn5IGJKaB5ESX3WUWmPeMVNRnBFxudnt4ubtaAfbJ</Value>
+    </Setting>
+    <Setting Name="apRFAdult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/hQDo6TUAuImqWENYQjdjMHhdKeiFYqsvMKhMPNBgM7oXUCNkXB4rtBH7i3tYubYh</Value>
+    </Setting>
+    <Setting Name="apRFFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/3hbQnlLEQA870bKszQg8dIWQ5cLzZm2wOCJj5zym0eFKZwgBn2T0ZS9i03fit53q</Value>
+    </Setting>
+    <Setting Name="apRF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/GatherBooking</Value>
+    </Setting>
+    <Setting Name="apWait" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="apPhotoSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="apPaperSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
